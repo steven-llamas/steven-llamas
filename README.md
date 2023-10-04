@@ -1,4 +1,4 @@
-<h1>Hi, I'm Steven!, <a href="https://www.linkedin.com/in/steven-llamas-5b1a80221/">IS Student</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Steven!, <a href="https://www.linkedin.com/in/steven-llamas-5b1a80221/">IS Student</a>, <a href="https://www.youtube.com/channel/UCItxRcmuus3iEUMSwXA4DTw">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
