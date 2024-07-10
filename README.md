@@ -6,8 +6,8 @@
 
 <h2>📄 Certifications</h2>
 
-- [CompTIA Security+](https://verify.CompTIA.org) (Code: 7C5P67VTFFVQQRCZ)
-                      
+- [CompTIA Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=78DR93Z9L8L0V4KV)
+  
 - [Google IT Support Professional](https://coursera.org/share/2a0d6e611f420b574a2072d3d3ee5227)
   
 - [Google Cybersecurity Professional](https://coursera.org/share/5cef1d9f1f9755892259935d2c7fe95e)
