@@ -4,6 +4,7 @@
 
 - [Active Directory Home Lab](https://github.com/steven-llamas/ActiveDirectoryLab)
 - [Wireshark Beginner Tutorial ](https://github.com/steven-llamas/Getting-started-with-wireshark)
+- [Setting Up a SQL Database on the Cloud](https://github.com/steven-llamas/AWS-RDS-SQL-Database-Setup)
 
 <h2>📄 Certifications</h2>
 
