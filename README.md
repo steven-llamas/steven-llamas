@@ -1,26 +1,21 @@
-<h1>Hi, I'm Steven! an <a href="https://www.linkedin.com/in/steven-llamas-5b1a80221/">Information Systems Grad</a> </h1>
+# Hi, I'm Steven! an [Information Systems Grad](https://www.linkedin.com/in/steven-llamas111)
 
-<h2>👨‍💻 Cybersecurity Projects</h2>
+## Projects
 
+- [Simple OS in ASM and C](https://github.com/steven-llamas/simple-OS)
 - [Active Directory Home Lab](https://github.com/steven-llamas/ActiveDirectoryLab)
-- [Wireshark Beginner Tutorial ](https://github.com/steven-llamas/Getting-started-with-wireshark)
 - [Setting Up a SQL Database on the Cloud](https://github.com/steven-llamas/AWS-RDS-SQL-Database-Setup)
 
-<h2>📄 Certifications</h2>
+##  Certifications
 
 - [CompTIA Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=78DR93Z9L8L0V4KV)
   
-- [Google IT Support Professional](https://coursera.org/share/2a0d6e611f420b574a2072d3d3ee5227)
-  
-- [Google Cybersecurity Professional](https://coursera.org/share/5cef1d9f1f9755892259935d2c7fe95e)
-
-  
     
-<h2>📺 Popular YouTube Videos</h2>
+## Popular YouTube Videos
 
 - [Tutorial: Active Directory Home Lab](https://www.youtube.com/watch?v=B0DALTcGSHc&themeRefresh=1)
 
-<h2> 🤳 Connect with me:</h2>
+## Connect with me:
 
 [<img align="left" alt="Steven_Llamas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Steven_Llamas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
