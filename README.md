@@ -3,6 +3,7 @@
 ## Projects
 
 - [Simple OS in ASM and C](https://github.com/steven-llamas/simple-OS)
+- [HL7 Parser/Viewer in Java](https://github.com/steven-llamas/HL7-Viewer)
 - [Active Directory Home Lab](https://github.com/steven-llamas/ActiveDirectoryLab)
 - [Setting Up a SQL Database on the Cloud](https://github.com/steven-llamas/AWS-RDS-SQL-Database-Setup)
 
